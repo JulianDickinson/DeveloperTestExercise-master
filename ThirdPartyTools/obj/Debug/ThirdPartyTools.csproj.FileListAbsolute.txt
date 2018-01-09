@@ -1,0 +1,6 @@
+C:\Users\J\Documents\Visual Studio 2017\BarclaysTest\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\J\Documents\Visual Studio 2017\BarclaysTest\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\J\Documents\Visual Studio 2017\BarclaysTest\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojResolveAssemblyReference.cache
+C:\Users\J\Documents\Visual Studio 2017\BarclaysTest\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.CoreCompileInputs.cache
+C:\Users\J\Documents\Visual Studio 2017\BarclaysTest\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\J\Documents\Visual Studio 2017\BarclaysTest\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
