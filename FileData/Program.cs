@@ -9,6 +9,9 @@ namespace FileData
     {
         public static void Main(string[] args)
         {
+            String [] versionSwitch = {"-v", "--v", "/v", "--version"};
+            String [] sizeSwitch = { "-s", "--s", "/s", "--size" };
+
             FileDetails fileDets = new FileDetails();
 
             if (args.Length != 2)
@@ -17,9 +20,15 @@ namespace FileData
                 return;
             }
 
-            if (args[0].ToString() == "-v")
+            if (versionSwitch.Contains(args[0].ToString()))
             {
                 Console.WriteLine(fileDets.Version(args[1].ToString()));
+                return;
+            }
+
+            if (sizeSwitch.Contains(args[0].ToString()))
+            {
+                Console.WriteLine(fileDets.Size(args[1].ToString()));
                 return;
             }
         }
